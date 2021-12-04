@@ -1,6 +1,6 @@
 # COMP3316 Assignment 4: Quantum Fourier Transform
 
-This repository contains code for our group assignment in the course COMP3316 (Quantum Information and Computation) @HKU.  We ([Jiayu](https://github.com/vega-arclight) and I) designed a lecture in quantum fourier transform, introducing its theoretical foundation and one of the most prominent applications, namely the quantum phase estimation algorithm.
+This repository contains code for our group assignment in the course COMP3316 (Quantum Information and Computation) @HKU.  We ([Jiayu](https://github.com/vega-arclight) and I) designed a lecture in quantum fourier transform, introducing its theoretical foundation and one of its most prominent applications, namely the quantum phase estimation algorithm.
 
 ✔️ Download our lecture notes [here](https://wwwcielwww.github.io/files/comp3316_gp.pdf).
 
