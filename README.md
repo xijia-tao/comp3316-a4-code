@@ -5,9 +5,7 @@ This repository contains code for our group assignment in the course COMP3316 (Q
 ✔️ Download our lecture notes [here](https://wwwcielwww.github.io/files/comp3316_gp.pdf).
 
 ## Usage
-You can choose to view the code in the format of jupyter notebooks `.ipynb` directly on the GitHub website. But because GitHub does not support LaTeX rendering, you might find the markdown sections of the code rather difficult to read.
-
-Alternatively, you can (clone the repository then) view the notebooks in Google Colab, which naturally supports the `.ipynb` format. If you've installed Anaconda, VS code or other editors in your local computer, you might be able to open the notebooks with them as well.
+You can choose to view the code in the format of jupyter notebooks directly on the GitHub website. Alternatively, you can (clone the repository then) run the notebooks in Google Colab, which naturally supports the `.ipynb` format. If you've installed Anaconda, VS code or other editors in your local computer, you might be able to open the notebooks with them as well.
 
 - `qft.ipynb`: demonstrate how quantum fourier transform works with examples visually;
 - `phase_est.ipynb`: demonstrate how the phase estimation algorithm works and its accuracy visually.
